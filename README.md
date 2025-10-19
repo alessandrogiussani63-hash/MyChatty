@@ -12,7 +12,7 @@ It blends local processing, FAISS-based memory, and modular intelligence into a 
 MyChatty is not just a chatbot; it’s a **cognitive framework** that evolves through:
 - Self-learning and self-curation
 - Modular cores and distributed agents
-- Integration with Auth-Core and StreamFast Mixer
+- Integration with Auth-Core 
 - Human-AI co-evolution
 
 ---
