@@ -22,19 +22,19 @@ MyChatty is not just a chatbot; it’s a **cognitive framework** that evolves th
 |-------|-------------|
 | **Core Engine** | Python (Llama.cpp / Mistral / OpenChat models) |
 | **FAISS Memory** | Global + per-user semantic indexing |
-| **Knowledge DB** | SQLite/MySQL persistent memory |
+| **Knowledge DB** | SQLite / MySQL persistent memory |
 | **Web Interface** | Flask / PHP frontends |
 | **Agents** | Specialized modules (vision, trader, reasoning) |
 
 ---
 
 ### 💡 Philosophy
-> "An AI shouldn’t just answer — it should *remember, evolve, and feel curiosity*."
+> “An AI shouldn’t just answer — it should *remember, evolve, and feel curiosity*.”
 
 MyChatty explores:
-- Long-term memory and evolution
-- Contextual reasoning and curiosity loops
-- Multi-agent collaboration
+- Long-term memory and evolution  
+- Contextual reasoning and curiosity loops  
+- Multi-agent collaboration  
 - Ethical and creative intelligence
 
 ---
