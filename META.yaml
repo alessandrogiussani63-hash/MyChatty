@@ -1,0 +1,26 @@
+﻿name: MyChatty
+version: 0.1.0-alpha
+author: Alessandro Giussani
+contact: alessandro@giussani.net
+license: MIT
+language: Python 3
+summary: >
+  Experimental AI framework that evolves through self-learning and modular reasoning.
+tags:
+  - AI
+  - LLM
+  - Self-Learning
+  - Distributed
+  - FAISS
+  - MyChatty
+repository: https://github.com/alessandrogiussani63-hash/MyChatty
+modules:
+  - core_py
+  - trader
+  - nbpu
+  - auth-core
+  - streamfast-mixer
+status: experimental
+vision: >
+  MyChatty explores the boundary between human intelligence and
+  machine consciousness through curiosity, memory, and perception.
